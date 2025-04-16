@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css"> </head>
 <body>
     <header>
-        <h1>Welcome to My GitHub Page</h1>
+        <h1>Welcome to hsfjee1a</h1>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
@@ -20,7 +20,7 @@
     <main>
         <section id="about">
             <h2>About Me</h2>
-            <p>This is a section where you can write about yourself, your skills, and your interests.</p>
+            <p>This is a public repo to share some of my daily learnigns.</p>
             </section>
 
         <section id="projects">
@@ -44,14 +44,14 @@
             <h2>Contact Me</h2>
             <p>Feel free to reach out!</p>
             <ul>
-                <li><strong>Email:</strong> <a href="mailto:[Your Email Address]">[Your Email Address]</a></li>
-                <li><strong>GitHub:</strong> <a href="https://github.com/[Your GitHub Username]">github.com/[Your GitHub Username]</a></li>
+                <li><strong>Email:</strong> <a href="mailto:[hsfjee1a]">[hsfjee1a@duck.com]</a></li>
+                <li><strong>GitHub:</strong> <a href="https://github.com/hsfjee1a]">github.com/hsfjee1a</a></li>
                 </ul>
         </section>
     </main>
 
     <footer>
-        <p>&copy; [Year] [Your Name]. All rights reserved.</p>
+        <p>&copy; [2005] [Your Name]. All rights reserved.</p>
     </footer>
 
     <script src="script.js"></script> </body>
